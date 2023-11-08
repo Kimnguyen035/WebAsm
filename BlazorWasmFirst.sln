@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmFirst", "BlazorWasmFirst\BlazorWasmFirst.csproj", "{CF0C8AE2-A5FB-44B8-B3AE-6EB37F8DDCC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspDotNetCoreApi", "AspDotNetCoreApi\AspDotNetCoreApi.csproj", "{83A9DE22-6F85-4427-B040-BA4ADC2D2E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0C8AE2-A5FB-44B8-B3AE-6EB37F8DDCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0C8AE2-A5FB-44B8-B3AE-6EB37F8DDCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0C8AE2-A5FB-44B8-B3AE-6EB37F8DDCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0C8AE2-A5FB-44B8-B3AE-6EB37F8DDCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A9DE22-6F85-4427-B040-BA4ADC2D2E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A9DE22-6F85-4427-B040-BA4ADC2D2E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A9DE22-6F85-4427-B040-BA4ADC2D2E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A9DE22-6F85-4427-B040-BA4ADC2D2E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5681F724-5D82-4C23-93F1-36D932939F4C}
+	EndGlobalSection
+EndGlobal
